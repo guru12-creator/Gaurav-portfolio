@@ -1,0 +1,60 @@
+{
+    "projects": [
+      {
+        "date": "07/10/2022",
+        "title": "TECHY STAR",
+        "description": "TECHYSTAR offers innovative IT solutions, delivering cutting-edge technology services to businesses, enhancing efficiency, security, and growth in the digital landscape.",
+        "url": "https://reacttwo-98onz4sqy-gauravs-projects-0f3253a9.vercel.app/#home",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "12/11/2022",
+        "title": "VIDEO HUB",
+        "description": "VIDEOHUB revolutionizes video sharing, enabling seamless uploading and streaming, fostering creativity, engagement, and connectivity in a dynamic online community.",
+        "url": "https://react-video-e2o53ekor-gauravs-projects-0f3253a9.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+      {
+        "date": "30/11/2022",
+        "title": "CRYPSEE",
+        "description": 
+        "CRYPSEE enables real-time tracking of cryptocurrency coins, offering live updates on values, trends, and market fluctuations for informed investment decisions.",
+        "url":"https://react-crypto-f9xu19ej1-gauravs-projects-0f3253a9.vercel.app/exchanges",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      {
+        "date": "20/12/2023",
+        "title": "Musiciy",
+        "description": 
+        "MUSICIY provides diverse music courses, catering to all skill levels, offering both paid and free options for learning instruments and music theory.",
+        "url": "https://music-nextjs-fl2lzz1n6-gauravs-projects-0f3253a9.vercel.app/",
+        "imgSrc": "https://media.istockphoto.com/id/1174418036/photo/piano-lesson-online-man-watching-video-tutorial-with-mobile-phone-and-practising-playing.jpg?s=1024x1024&w=is&k=20&c=gJK21-D9dwiOLQuIxy851QQ-VZ0Ry7uQl8AbV_5mOE4="
+        
+        
+        
+       
+      },
+      {
+
+        "date": "17/02/2024",
+        "title": "Work-manager",
+        "description": 
+        "WORK MANAGER streamlines task management, facilitating efficient organization and productivity, empowering users to optimize workflows and achieve goals effectively.",
+        "url": "https://task-manager-project-nextjs-o5o7.vercel.app/",
+        "imgSrc": "https://media.istockphoto.com/id/1416425890/photo/devops-team-lean-project-management-system-for-quick-adjustments-incremental-work-iterative.jpg?s=1024x1024&w=is&k=20&c=U6uhunDNJ6SG4NfLc12lV5EnyUjXN7YFU45M6qNSOQI="
+       
+      },
+      {
+        "date":  "Current Project",
+        "title": "Chat Application",
+        "description": 
+        "CRYPSEE enables real-time tracking of cryptocurrency coins, offering live updates on values, trends, and market fluctuations for informed investment decisions.",
+        "url":"https://www.figma.com/file/cX28GcBPy6dz7NvyBYUaJy/CM-Chat-App?type=design&mode=design&t=Plm0U0sW73kPU63P-0",
+        "imgSrc": "https://media.istockphoto.com/id/1057168562/photo/man-hand-holding-phone-with-app-messenger-on-the-screen.jpg?s=1024x1024&w=is&k=20&c=HqMmF3r9N2BFwKSQ_ve_j0y37fMtLxq2wM8UQJjwb5Y="
+      }
+     
+     
+    ]
+  }
